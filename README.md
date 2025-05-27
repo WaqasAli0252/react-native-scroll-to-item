@@ -6,6 +6,7 @@ A React Native app that scrolls to a specific FlatList item based on user input 
 - Smooth scrolling to the selected index
 - Highlight the selected item
 - Clean UI and beginner-friendly code
+- Dynamic heights of each-item
 
 ## 🛠️ Tech Stack
 
